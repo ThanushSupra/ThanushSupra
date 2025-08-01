@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Thanush Supramaniam, a Computer Science student at the University of Guelph, specializing in AI & ML,  who thrives on crafting creative tech solutions, sharing insights, and empowering others in their learning journeys.  Right now, I’m building my personal portfolio website and relearning Python and Java to soon build a full-stack application—stay tuned!<br>
+Hey there! I’m Thanush Supramaniam, a Computer Science student at the University of Guelph, specializing in AI & ML,  who thrives on crafting creative tech solutions, sharing insights, and empowering others in their learning journeys.  Right now, I’m building my personal portfolio website, relearning Python, and also currently helping a startup build their Mobile App through React Native!<br>
 
 
 ## 🌐 Socials:
